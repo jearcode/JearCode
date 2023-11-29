@@ -1,8 +1,9 @@
-### Hi there 👋
-### I'm Jeremias
+### Hey 👋
+### My name is Jeremias.
 
-- 🌱 I’m currently learning: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png"  alt="DigitalHouse" width="23" height="20">
-- ⚡ I am currently studying at: <a href="https://digitalhouse.com"><img src="https://www.digitalhouse.com/favicon.ico"  alt="DigitalHouse" width="17" height="17"></a>
+- 🌱 Currently, I'm diving into React: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png"  alt="DigitalHouse" width="23" height="20">
+- ⚡ I'm studying at DigitalHouse: <a href="https://digitalhouse.com"><img src="https://www.digitalhouse.com/favicon.ico"  alt="DigitalHouse" width="17" height="17"></a>
+
 
 <!--
 **JearCode/JearCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,8 @@
 ### Hey 👋
 ### My name is Jeremias.
 
-- 🌱 Currently, I'm diving into React: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png"  alt="React icon" width="23" height="20">
-- ⚡ I'm studying at DigitalHouse: <a href="https://digitalhouse.com"><img src="https://www.digitalhouse.com/favicon.ico"  alt="DigitalHouse" width="17" height="17"></a>
+- 🌱 Currently, I'm diving into React: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png"  alt="React Icon" width="23" height="20">
+- ⚡ I'm studying at DigitalHouse: <a href="https://digitalhouse.com"><img src="https://www.digitalhouse.com/favicon.ico"  alt="DigitalHouse Icon" width="17" height="17"></a>
 
 
 <!--

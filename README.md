@@ -1,7 +1,7 @@
 ### Hey 👋
 ### My name is Jeremias.
 
-- 🌱 Currently, I'm diving into Java: <img src="https://banner2.cleanpng.com/20180423/xye/kisspng-java-runtime-environment-computer-icons-java-platf-java-5ade3063b37168.579025831524510819735.jpg"  alt="Java Icon" width="23" height="20">
+- 🌱 Currently, I'm diving into Java: <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-512.png"  alt="Java Icon" width="23" height="20">
 - ⚡ I'm studying at DigitalHouse: <a href="https://digitalhouse.com"><img src="https://www.digitalhouse.com/favicon.ico"  alt="DigitalHouse Icon" width="17" height="17"></a>
 
 

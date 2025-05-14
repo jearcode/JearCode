@@ -58,7 +58,7 @@ Currently exploring the world of **microservices**.
 ### 📸 Booking API for Photography Services  
 > A RESTful API for managing bookings between photography groups and independent photographers. Built with Java + Spring Boot, it supports scheduling, user management, and availability tracking.
 
-🔗 [View repository](https://github.com/JearCode/photography-booking-api)
+🔗 [View repository](https://github.com/jearcode/luxe-vision-backend)
 
 ## 📬 Contact
 
